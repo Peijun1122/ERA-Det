@@ -10,7 +10,7 @@ Universiti Malaya · Guangxi University · University of Lincoln
 
 </div>
 
-> **Code, configs and pretrained weights will be released once the paper is accepted.** Watch or star this repository to be notified.
+> **The paper has been submitted to IEEE Transactions on Image Processing. Code, configs and pretrained weights will be released once the paper is accepted.** Watch or star this repository to be notified.
 
 ## Overview
 
