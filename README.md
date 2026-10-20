@@ -2,7 +2,7 @@
 
 # ERA-Det
 
-### RGB–Event Object Detection Across Operating Frequencies via Reliability-Supervised Routing and Asymmetric-Resolution Fusion
+### RGB-Event Object Detection Across Operating Frequencies via Reliability-Supervised Routing and Asymmetric-Resolution Fusion
 
 Peijun Shi, Jiannan Zhao, Xiujin Zhu, Zhenguo Lao, Chee-Onn Chow, Wei Ru Wong
 
@@ -16,7 +16,7 @@ Universiti Malaya · Guangxi University · University of Lincoln
 
 ## Overview
 
-An event camera lets an RGB–event detector decide between frames. The rate of these decisions, the **operating frequency**, is a decision rate and not the frame rate of the camera: on DSEC-Det the frames arrive at 20 Hz, and at an operating frequency of 180 Hz nine decisions share one frame. As the operating frequency rises, each decision receives a shorter and sparser event window, and the reliability of the events relative to the frame changes over the scene and over time.
+An event camera lets an RGB-event detector decide between frames. The rate of these decisions, the **operating frequency**, is a decision rate and not the frame rate of the camera: on DSEC-Det the frames arrive at 20 Hz, and at an operating frequency of 180 Hz nine decisions share one frame. As the operating frequency rises, each decision receives a shorter and sparser event window, and the reliability of the events relative to the frame changes over the scene and over time.
 
 ERA-Det fuses the two sensors by this relative reliability, location by location and decision by decision.
 
