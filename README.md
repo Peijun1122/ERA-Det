@@ -8,6 +8,8 @@ Peijun Shi, Jiannan Zhao, Xiujin Zhu, Zhenguo Lao, Chee-Onn Chow, Wei Ru Wong
 
 Universiti Malaya · Guangxi University · University of Lincoln
 
+[![arXiv](https://img.shields.io/badge/arXiv-2610.26090-b31b1b.svg)](https://arxiv.org/abs/2610.26090)
+
 </div>
 
 > **The paper has been submitted to IEEE Transactions on Image Processing. Code, configs and pretrained weights will be released once the paper is accepted.** Watch or star this repository to be notified.
@@ -79,7 +81,19 @@ Fine-tuned from the DSEC-Det models; mean over three training seeds.
 
 ## Citation
 
-The BibTeX entry will be added when the preprint is available.
+If you find ERA-Det useful, please cite:
+
+```bibtex
+@misc{shi2026eradet,
+  title         = {{RGB}--Event Object Detection Across Operating Frequencies via Reliability-Supervised Routing and Asymmetric-Resolution Fusion},
+  author        = {Shi, Peijun and Zhao, Jiannan and Zhu, Xiujin and Lao, Zhenguo and Chow, Chee-Onn and Wong, Wei Ru},
+  year          = {2026},
+  eprint        = {2610.26090},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.CV},
+  url           = {https://arxiv.org/abs/2610.26090}
+}
+```
 
 ## Acknowledgements
 
